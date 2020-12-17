@@ -44,14 +44,14 @@ body {
 }
 
 .container {
-   background-color: #FFEFD5;
+   background-color: #FFDAB9;
     box-shadow: 0 0 10px 5px rgba(255, 228, 181, 1);
     width: 950px;
 }
 
 .gamelist {
     background-color: rgb(192, 215, 235);
-    box-shadow: 0 0 10px 5px rgba(221, 221, 221, 1);
+    box-shadow: 0 0 10px 5px rgba(255, 228, 181, 1);
     width: 500px;
     text-align: center;
 }
